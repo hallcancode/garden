@@ -1,0 +1,3 @@
+The American Global Positioning System (GPS) is a network of 24 to 32 satellites that have a well known orbit and precise clock.  Four satellites are necessary to receive position and elevation.  
+
+Using a high precision permanent GPS station we are able to measure the rate at which [[Types of Plate Techtonics|plate techtonics]], groundwater changes, and patterns of atmospheric noise.  Most fixed GPS in America stations are located in the western United States.  

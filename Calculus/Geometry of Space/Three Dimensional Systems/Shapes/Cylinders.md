@@ -1,0 +1,1 @@
+A *cylinder* is the set of all lines that are parallel to a given line and pass through a given [[Planes|plane]].  Notably, the surface that makes up a cylinder does not need to be a circle nor does it even need to be closed.  

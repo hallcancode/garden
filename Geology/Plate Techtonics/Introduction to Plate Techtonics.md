@@ -1,0 +1,7 @@
+*Plate techtonics* are a widely accepted theory which explains the variation in topography and terrain throughout the Earth.  For most of geology's history, scientists hypothesiszed that these feature were caused by vertical movements, instead of horizontal ones.  Additional theories proposed that the Earth was expanding or contracting.  
+
+Plate boundaries were initially proposed after World War II.  They were founded off of the ideas that (1) the the continents appear to have a puzzle-piece-like fit and (2) that when fitted together the rock records indicate overlap were the continents fit together.  Finally, there is additional overlap between the fossil record between contents.  
+
+During World War II, when sonar was invented, people because to use it to measure the bythemitry of the ocean floor.  In 1959, when the first maps were produced of the ocean floor, they found a rift valley which produced a large number of earthquakes along it.  When the found this, they were finally able to produce a possible reason for why the continents move: *seafloor spreading*.  Seafloor spreading creates new crust, which could explain them as an acting force that pushes onto the contentients.  
+
+Difference in densisties and convection within the Earth's mantle causes plate techtonics.  

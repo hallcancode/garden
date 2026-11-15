@@ -1,0 +1,2 @@
+The _size_ of a [[Introduction to Sets|set]] is the number of elements contained within it.  For many sets this is done through counting, which is the primary focus of [[Introduction to Quantitative Thinking|quantitative thinking]].  The size of a union of sets can be found using the _inclusion-exclusion principle_, which states that the size $\left|A \cup B\right|$ of the union of sets $A$ and $B$, is:
+$$\left| A \cup B \right| = \left|A\right| + \left|B\right| - \left|A \cap B\right|$$

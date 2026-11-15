@@ -1,0 +1,10 @@
+{
+  "nativeMenus": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "noctalia"
+  ],
+  "interfaceFontFamily": "IBM Plex Sans,OpenDyslexic Nerd Font",
+  "textFontFamily": "IBM Plex Serif,Vollkorn,OpenDyslexic Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font,OpenDyslexicM Nerd Font"
+}

@@ -1,0 +1,1 @@
+*Electrolytes* are substances whose solutions conduct electricity.  All soluble [[Ionic Compounds|ionic compounds]] are strong electrolytes, because they provide a large number of ions in the supply.  Some polar covalent compounds are also strong electrolytes.  

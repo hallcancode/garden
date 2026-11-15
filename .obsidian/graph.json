@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Algebra OR path:Calculus  OR path:Geometry",
+      "color": {
+        "a": 1,
+        "rgb": 10937249
+      }
+    },
+    {
+      "query": "path:\"Discrete Mathematics\"  OR path:\"Classical Statistics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9757397
+      }
+    },
+    {
+      "query": "path:\"Classical Mechanics\" OR path:Chemistry OR path:Geology  ",
+      "color": {
+        "a": 1,
+        "rgb": 15912397
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.0932382711499872,
+  "close": true
+}

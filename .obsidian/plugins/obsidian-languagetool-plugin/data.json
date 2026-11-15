@@ -1,0 +1,12 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "urlMode": "standard",
+  "showRibbonIcon": false,
+  "glassBg": false,
+  "shouldAutoCheck": true,
+  "autoCheckDelay": 3000,
+  "pickyMode": true,
+  "apiKeyStorage": "secret",
+  "staticLanguage": "auto",
+  "englishVeriety": "en-US"
+}

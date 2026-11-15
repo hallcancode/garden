@@ -1,0 +1,1 @@
+Geospatial Information Systems (GIS’s) are tools to model real-world graphical information.  GIS’s allow users to create, analyze, manage, visualize, and interpret geospatial.  There are two primary types of data within GISes: vectors (point, way, etc.) and raster (image.)

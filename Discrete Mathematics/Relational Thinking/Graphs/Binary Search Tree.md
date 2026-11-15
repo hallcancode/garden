@@ -1,0 +1,1 @@
+A *binary search tree* is a possible organization of a [[Introduction to Graphs|graph]].  Binary search trees consist of nodes that connect to, at most, two other nodes, a lesser one to the left and a greater one to the right.  To construct a binary search tree, start with an arbitrarily chosen item, this is the *root* node of the tree.  

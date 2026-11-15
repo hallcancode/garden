@@ -1,0 +1,1 @@
+*Planes* are [[Introduction to Three Dimensional Systems|three-dimensional]] shapes that are flat and continuous throughout.  

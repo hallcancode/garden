@@ -1,0 +1,1 @@
+*Cylindrical motion* follows polar coordinates in the [[Introduction to Three Dimensional Systems|third dimension]] and follows the patterns of a [[Cylinders|cylinder]].  Within cylindrical motion consists of three primary coordinates: the radius $r$, angle $\theta$, and depth $z$.  

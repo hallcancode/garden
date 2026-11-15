@@ -1,0 +1,2 @@
+*Hot spot* volcanoes are produced by mantle plumes, not [[Introduction to Plate Techtonics|plate techtonics]], the origins of these plumes are not very well studied or fully proven.  The mantle is melted by the plumes, becoming lighter, causing it to well up to the surface.  
+As the plate moves, the volcano and plume drift apart and.  At a certain point they drift far enough away that the plume forms a new volcano.  As the lithosphere that formed the volcano cools the surface erodes.  This behavior causes a linear series of seamounts and islands.  
